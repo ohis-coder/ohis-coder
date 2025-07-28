@@ -1,16 +1,59 @@
-## Hi there 👋
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ohis-coder)](https://git.io/streak-stats)
 
-<!--
-**ohis-coder/ohis-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://media.giphy.com/media/LmNwrJt46vC4xI3k6W/giphy.gif" width="150" height="150" alt="Animated coding GIF" />
+  <h1>Hi there, I'm Ohimai! 👋</h1>
+  <p><h3>The Crazy Dev on a Mission to Build and Conquer.</h3></p>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+I'm an incredibly passionate and driven aspiring **Full-Stack Software Engineer** from Lagos, Nigeria. My journey is all about transforming ideas into robust and intuitive digital experiences, both on the front-end and the back-end. I thrive on solving complex problems and am constantly pushing the boundaries of what I can learn and create.
+
+I'm currently on an exciting quest to build **1000 repositories** and delve deep into the core foundations of computer science and scalable systems!
+
+---
+
+### 💻 What I'm Currently Conquering
+
+* **Frontend Mastery:** Polishing my skills in crafting dynamic and visually stunning user interfaces with **HTML, CSS, and JavaScript (React is next!)**.
+* **Backend Foundations:** Building robust server-side applications with **Python (Node.js/Express.js are on the horizon!)**.
+* **Data Structures & Algorithms:** Currently deep-diving into **Binary Trees** and everything encompassing them (recursion, traversals, and especially perfecting their visualization in the terminal!).
+* **System Design:** Getting a solid beginner-level hang of distributed systems, architectural patterns, and the crucial trade-offs in building scalable software.
+
+---
+
+### 🛠️ My Ever-Expanding Tech Stack
+
+Here are some of the technologies I'm working with and mastering:
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,linux,figma,mongodb,nodejs,express)](https://skillicons.dev)
+
+*(Note: The above badge links to skillicons.dev where you can customize icons. I've added a few based on our talks like MongoDB, Node.js, Express.js as "next on horizon")*
+
+---
+
+### 🧠 My Developer Journey & Philosophy
+
+My path has been one of continuous discovery and intense learning. I've previously immersed myself in **Networking** and **Cybersecurity** (filling 7 notebooks on networking alone!), learning advanced concepts and even Python for security. This journey, while pivoting, has equipped me with invaluable insights into secure coding, network fundamentals, and a robust problem-solving mindset that I bring to every development challenge.
+
+My philosophy is simple: **"I will learn, I always do."** Every line of code, every bug fixed, and every new concept mastered adds to my "Explosive power of God's Glory."
+
+---
+
+### 🔥 GitHub Stats (Let's fill these green squares!)
+
+*(Remember to replace `YOUR_GITHUB_USERNAME` below with your actual GitHub username)*
+
+[![Ohimai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ohis-coder&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Ohimai's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ohis-coder&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 🤝 Connect with Me
+
+* **LinkedIn:** https://www.linkedin.com/in/ohimai/
+* **Twitter/X:** https://www.x.com/cxx_23
+* **Portfolio/Personal Website:** in view
