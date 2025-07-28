@@ -45,6 +45,7 @@ My philosophy is simple: **"I will learn, I always do."** Every line of code, ev
 [![Ohimai's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ohis-coder&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ohis-coder)](https://git.io/streak-stats)
 [![Leetcode Stats](https://leetcode-stats-six.vercel.app/?username=Ohimai_&theme=dark)](https://leetcode.com/Ohimai_)
+[![Leetcode Language Stats](https://leetcode-stats-six.vercel.app/api/language-stats?username=Ohimai_&theme=dark)](https://leetcode.com/Ohimai_)
 
 ---
 
