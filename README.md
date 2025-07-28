@@ -47,6 +47,10 @@ My philosophy is simple: **"I will learn, I always do."** Every line of code, ev
 
 ---
 
+[![Leetcode Stats](https://leetcode-stats-six.vercel.app/?username=Ohimai_&theme=dark)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
+
+---
+
 ### Connect with Me
 
 * **LinkedIn:** https://www.linkedin.com/in/ohimai/
