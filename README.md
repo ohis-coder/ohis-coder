@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OGF4NGNtZnRmMWIzdWJhbTJxZDZhYzJvZTFmMmpscXU3aHlhMmo5bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oZrULLMOm1lbOdTrFg/giphy.gif" width="150" height="150" alt="Animated coding GIF" />
-  
-  <h1>Hi there, I'm Ohimai! 👋</h1>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aTllNTF5YTRyMzRxMW9rMXlhdnRpMXR0Y2M0ajVvZW83YTJscXh1NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3orif3JBZETeKS2xZC/giphy.gif" width="150" height="150" alt="Animated coding GIF" />
+  <h1>Hi there, I'm Ohimai!</h1>
   <p><h3>The Crazy Dev on a Mission to Build and Conquer.</h3></p>
 </div>
 
