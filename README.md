@@ -1,7 +1,6 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ohis-coder)](https://git.io/streak-stats)
-
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrJt46vC4xI3k6W/giphy.gif" width="150" height="150" alt="Animated coding GIF" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OGF4NGNtZnRmMWIzdWJhbTJxZDZhYzJvZTFmMmpscXU3aHlhMmo5bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oZrULLMOm1lbOdTrFg/giphy.gif" width="150" height="150" alt="Animated coding GIF" />
+  
   <h1>Hi there, I'm Ohimai! 👋</h1>
   <p><h3>The Crazy Dev on a Mission to Build and Conquer.</h3></p>
 </div>
@@ -29,9 +28,7 @@ I'm currently on an exciting quest to build **1000 repositories** and delve deep
 
 Here are some of the technologies I'm working with and mastering:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,linux,figma,mongodb,nodejs,express)](https://skillicons.dev)
-
-*(Note: The above badge links to skillicons.dev where you can customize icons. I've added a few based on our talks like MongoDB, Node.js, Express.js as "next on horizon")*
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,linux,figma,mongodb,nodejs,express,sql)](https://skillicons.dev)
 
 ---
 
@@ -45,10 +42,9 @@ My philosophy is simple: **"I will learn, I always do."** Every line of code, ev
 
 ### 🔥 GitHub Stats (Let's fill these green squares!)
 
-*(Remember to replace `YOUR_GITHUB_USERNAME` below with your actual GitHub username)*
-
 [![Ohimai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ohis-coder&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Ohimai's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ohis-coder&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ohis-coder)](https://git.io/streak-stats)
 
 ---
 
