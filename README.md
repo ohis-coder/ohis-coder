@@ -27,7 +27,7 @@ I'm currently on an exciting quest to build **1000 repositories** and delve deep
 
 Here are some of the technologies I'm working with and mastering:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,linux,figma,mongodb,nodejs,express,sql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,linux,figma,mongodb,nodejs,express,sql,swift)](https://skillicons.dev)
 
 ---
 
