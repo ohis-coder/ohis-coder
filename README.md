@@ -35,7 +35,7 @@ Here are some of the technologies I'm working with and mastering:
 
 My path has been one of continuous discovery and intense learning. I've previously immersed myself in **Networking** and **Cybersecurity** (filling 7 notebooks on networking alone!), learning advanced concepts and even Python for security. This journey, while pivoting, has equipped me with invaluable insights into secure coding, network fundamentals, and a robust problem-solving mindset that I bring to every development challenge.
 
-My philosophy is simple: **"I will learn, I always do."** Every line of code, every bug fixed, and every new concept mastered adds to my "Explosive power of God's Glory."
+My philosophy is simple: **"I will learn, I always do."** Every line of code, every bug fixed, and every new concept mastered adds to my Skill.
 
 ---
 
