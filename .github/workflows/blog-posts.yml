@@ -14,4 +14,4 @@ jobs:
       - name: Pull in posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://crazy-dev.hashnode.dev/rss.xml"
+          feed_list: "https://ohimai-dev.hashnode.dev/rss.xml"
