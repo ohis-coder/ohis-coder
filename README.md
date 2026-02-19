@@ -39,11 +39,14 @@ My philosophy is simple: **"I will learn, I always do."** Every line of code, ev
 
 ---
 
-### GitHub Stats 
+### My Articles
 
-[![Ohimai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ohis-coder&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Ohimai's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ohis-coder&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Ohimai's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Ohimai_)](https://leetcode.com/Ohimai_)
+``
+
+``
+
+---
+
 
 ### Connect with Me
 
