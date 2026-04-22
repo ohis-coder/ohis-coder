@@ -20,8 +20,8 @@ I am a Software Engineer based in Lagos, Nigeria, obsessed with the "Silicon Ben
 
 ---
 
-###  My Tech Stack (The Infrastructure Edition)
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,swift,python,mongodb,nodejs,git,linux,vscode,figma)](https://skillicons.dev)
+###  My Tech Stack 
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,swift,python,mongodb,nodejs,git,linux,vim,figma)](https://skillicons.dev)
 
 ---
 
